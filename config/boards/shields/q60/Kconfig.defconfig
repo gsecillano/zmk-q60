@@ -1,0 +1,6 @@
+if SHIELD_Q60
+
+config ZMK_KEYBOARD_NAME
+    default "q60"
+
+endif

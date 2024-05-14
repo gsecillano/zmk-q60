@@ -1,0 +1,2 @@
+config SHIELD_Q60
+    def_bool $(shields_list_contains, q60)
